@@ -1,0 +1,88 @@
+body {
+  margin: 40px;
+  height: 2000px;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+  outline: none;
+  color: #00cba9;
+  font-size: 22px;
+  background: #e0e0e0;
+}
+
+.s-v {
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #00cba9;
+}
+
+.main-app {
+  background: #fff;
+  width: 400px;
+  height: 715px;
+  margin: 0 auto;
+  border-radius: 48px;
+  background: #e0e0e0;
+  box-shadow:  26px 26px 52px #c3c3c3, -26px -26px 52px #fdfdfd;
+}
+
+.input-amount {
+  text-align: center;
+  display: inline-block;
+  width: 110px;
+  margin: 20px auto;
+  border: none;
+  outline: none;
+  border-bottom: 3px solid #00cba9;
+  font-size: 20px;
+  color: #00cba9;
+}
+
+.d-sign {
+  font-size: 22px;
+  color: #00cba9;
+}
+
+.select-inp {
+  width: 250px;
+  margin: 0 auto;
+  font-size: 20px;
+  border-radius: 4px;
+  border: none;
+  border: 1px solid #00cba9;
+  padding: 20px;
+}
+
+span {
+  font-size: 22px;
+  color: #00cba9;
+  
+}
+
+.output {
+  gap: 60px;
+}
+
+.tip-details {
+  background: #c5f0e9;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+.tip-details h2:nth-child(2) {
+  color:#00cba9;
+}
+
+.amt {
+  font-size: 26px;
+  color: #00cba9; 
+}
